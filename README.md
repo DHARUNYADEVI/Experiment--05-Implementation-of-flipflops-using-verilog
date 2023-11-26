@@ -1,4 +1,4 @@
-![image](https://github.com/DHARUNYADEVI/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473847/7c2a1a61-f495-4cbb-bc65-fb56fcb4ce47)![image](https://github.com/DHARUNYADEVI/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473847/f503c2f6-f036-41af-8e33-8b3c2930ad9f)# Experiment--05-Implementation-of-flipflops-using-verilog
+# Experiment--05-Implementation-of-flipflops-using-verilog
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
