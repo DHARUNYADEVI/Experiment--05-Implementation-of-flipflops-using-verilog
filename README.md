@@ -84,8 +84,6 @@ T flip-flop is the simplified version of JK flip-flop. It is obtained by connect
 
 ![image](https://user-images.githubusercontent.com/36288975/167911534-5f3c445d-bc68-46e2-9a9c-7efce5febc60.png)
 
-
-
 This circuit has single input T and two outputs Qtt & Qtt’. The operation of T flip-flop is same as that of JK flip-flop. Here, we considered the inputs of JK flip-flop as J = T and K = T in order to utilize the modified JK flip-flop for 2 combinations of inputs. So, we eliminated the other two combinations of J & K, for which those two values are complement to each other in T flip-flop.
 The following table shows the state table of T flip-flop.
 
@@ -187,7 +185,8 @@ endmodule
 ### D FLIPFLOP:
 ![image](https://github.com/DHARUNYADEVI/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473847/45badbd7-4b4e-40f2-a79f-144fc0f49237)
 ### T FLIPFLOP:
-![image](https://github.com/DHARUNYADEVI/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473847/27bcab64-6b4b-40b5-b616-8aa9472159ef)
+![image](https://github.com/DHARUNYADEVI/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473847/3093a958-0bfa-458a-a078-f0be50bf16ea)
+
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 ### SR FLIPFLOP:
 ![image](https://github.com/DHARUNYADEVI/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147473847/2749c0c5-2714-4fca-a400-27bcb4fbdb1c)
